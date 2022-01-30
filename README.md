@@ -22,7 +22,7 @@ Assuming that the significant value should be below p = 0.05, standard deviation
 
 According to the analysis, the major impacts of MPG are spoiler angle, car wight, and AWD capability. This would mean for any improvement on the MPG of the MechaCar, the car engineers would have to consider these variables. Also, when looking at the suspension coils, Lot 3 has the most variance and lower PSI average. Lot 3 should not be used within the MechaCar. 
 
-Study Design: Competition VS MechaCar
+## Study Design: Competition VS MechaCar
 
 The most efficient way to compare MechaCar to its competition would be the use the ANOVA test. This test can compare the MechaCar in various categories that customers would care about the most. These would include cost, city and highway fuel efficiency, horsepower, safety rating, and maintenance cost. The ANOVA test can test to check if the mean from multiple samples is significantly similar or different. This means that eh averages of different cars in these categories can be compared to the average of MechaCar. 
 
